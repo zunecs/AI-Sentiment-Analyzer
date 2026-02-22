@@ -30,3 +30,5 @@
 - Polarity histogram  
 
 The repository includes a full analysis script, Jupyter notebook workflow, dataset, and modular functions for loading, cleaning, analysis, visualization, and export, with configurable sentiment thresholds.
+
+### *Note:* The dataset was not uploaded due to size limitations. Instead, a download link has been provided. The errors are occurring because the dataset file is not included in the repository.
